@@ -1,0 +1,7 @@
+{
+    "name": "sourabh/change-table-engine",
+    "type": "project",
+    "require": {
+        "catfan/medoo": "^2.1"
+    }
+}
